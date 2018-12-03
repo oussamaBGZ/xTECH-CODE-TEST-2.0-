@@ -1,6 +1,9 @@
 # xTECH code test 2.0
 This is a Solution for xTECH test
 
+
+==== TESTS START =====================================================
+
 EX 1
 ```
 Write a function f1 that accepts two arrays of strings, a and b, as parameters and returns an array, containing for each string in a, how many times it occurs in b.
