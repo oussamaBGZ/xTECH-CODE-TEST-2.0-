@@ -45,7 +45,7 @@ export { f2 }
 // Test 3
 
 function f3(a) {
-    return [a.map(el => ({ ...el }))]
+    return [...a.map(el => ({ ...el }))]
 }
 
 export { f3 }
